@@ -1,9 +1,9 @@
 lagerLogSyntax
 ==============
 
-Vim syntax for lager(https://github.com/basho/lager) log files
+Basic syntax highlighting for [lager](https://github.com/basho/lager) log files
 
-FEATURES
+Features
 --------
 
 * highlights log level in different colors
@@ -11,7 +11,7 @@ FEATURES
 * highlights module and function names
 * highlights PIDs and nodes
 
-INSTALL
+Install
 -------
 
 using [pathogen](https://github.com/tpope/vim-pathogen):
