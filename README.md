@@ -6,7 +6,7 @@ Basic syntax highlighting for [lager](https://github.com/basho/lager) log files
 Features
 --------
 
-* highlights log level in different colors
+* highlights log levels in different colors
 * display timestamps gray
 * highlights module and function names
 * highlights PIDs and nodes
