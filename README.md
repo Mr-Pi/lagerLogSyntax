@@ -1,7 +1,7 @@
 lagerLogSyntax
 ==============
 
-Basic syntax highlighting for [lager](https://github.com/basho/lager) log files
+Basic vim syntax highlighting for [lager](https://github.com/basho/lager) log files
 
 Features
 --------
